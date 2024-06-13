@@ -1,0 +1,138 @@
+[
+  {
+    "name": "A4",
+    "price": "6452.99",
+    "location": "Склад 1",
+    "quantity": 5,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "A4 allroad quattro",
+    "price": "4842.99",
+    "location": "Склад 2",
+    "quantity": 8,
+    "reserved": true,
+    "userName": "Пользователь 1"
+  },
+  {
+    "name": "A5 Sportback",
+    "price": "8416.99",
+    "location": "Склад 3",
+    "quantity": 12,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "A6",
+    "price": "8412.99",
+    "location": "Склад 2",
+    "quantity": 3,
+    "reserved": true,
+    "userName": "Пользователь 2"
+  },
+  {
+    "name": "RS 6а",
+    "price": "24648.99",
+    "location": "Склад 1",
+    "quantity": 10,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "A7 Sportback",
+    "price": "28645.99",
+    "location": "Склад 4",
+    "quantity": 7,
+    "reserved": true,
+    "userName": "Пользователь 3"
+  },
+  {
+    "name": "A8",
+    "price": "18546.99",
+    "location": "Склад 3",
+    "quantity": 15,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "A8 L",
+    "price": "34948.99",
+    "location": "Склад 4",
+    "quantity": 2,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "S8",
+    "price": "84115.99",
+    "location": "Склад 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Q3",
+    "price": "28468.99",
+    "location": "Склад 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Q5",
+    "price": "98452.99",
+    "location": "Склад 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "SQ5у",
+    "price": "86545.99",
+    "location": "Склад 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "Q7",
+    "price": "56242.99",
+    "location": "Склад 2",
+    "quantity": 6,
+    "reserved": true,
+    "userName": "Пользователь 4"
+  },
+  {
+    "name": "SQ7",
+    "price": "94851.99",
+    "location": "Склад 1",
+    "quantity": 9,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "Q8",
+    "price": "48615.99",
+    "location": "Склад 5",
+    "quantity": 9,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "SQ8",
+    "price": "16416.99",
+    "location": "Склад 2",
+    "quantity": 1,
+    "reserved": false,
+    "userName": null
+  },
+  {
+    "name": "ЧQ8 e-tron",
+    "price": "41574.99",
+    "location": "Склад 1",
+    "quantity": 2,
+    "reserved": false,
+    "userName": null
+  }
+]
